@@ -1,0 +1,8 @@
+#!/bin/bash
+alphabet=ABCDEFGHIJKLMNOPQRSTUVWXYZ
+
+for (( i=0; i != ${#alphabet}; i++ ))
+do
+	letter=${alphabet:i:1}
+	mkfifo lamp$letter
+done
