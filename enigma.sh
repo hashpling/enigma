@@ -1,5 +1,7 @@
 #!/bin/bash
 
+# (c) 2015 Charles Bailey
+
 alphabet=ABCDEFGHIJKLMNOPQRSTUVWXYZ
 
 swap_fd () {

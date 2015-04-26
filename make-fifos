@@ -1,4 +1,7 @@
 #!/bin/bash
+
+# (c) 2015 Charles Bailey
+
 alphabet=ABCDEFGHIJKLMNOPQRSTUVWXYZ
 
 for (( i=0; i != ${#alphabet}; i++ ))

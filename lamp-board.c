@@ -1,3 +1,5 @@
+/* (c) 2015 Charles Bailey */
+
 #include <sys/types.h>
 #include <sys/stat.h>
 #include <fcntl.h>
